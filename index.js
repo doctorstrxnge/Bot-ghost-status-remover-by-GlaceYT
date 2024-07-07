@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Ben SmackDown Genel Menajeri Nick Aldis"];
 
 
 let currentIndex = 0;
