@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["SmackDown Genel Menajeri","Ölünce beni Duayenler Topluluğu Discorduna gömün"];
 
 
 let currentIndex = 0;
